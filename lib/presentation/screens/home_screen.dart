@@ -56,7 +56,7 @@ class HomeScreen extends StatelessWidget {
               // ignore: prefer_const_constructors
               SnackBar(
                 content: const Text(
-                  'Internet connected!',
+                  'Internet disconnected!',
                 ),
                 backgroundColor: Colors.red,
               ),
